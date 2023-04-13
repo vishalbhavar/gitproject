@@ -1,0 +1,22 @@
+
+
+From Date :<input type = "date" name = "fdate"><br><br>
+To Date :<input type = "date" name = "tdate"><br><br>
+
+Unit counts:<input type = "text" name = "unit"><br><br>
+
+<input type = button value = Reset><br><br>
+
+
+
+
+
+
+
+String fdate = request.getParameter("fdate");
+		String tdate = request.getParameter("tdate");
+		String unit = request.getParameter("unit");
+		
+		
+		
+		+ fdate + tdate + unit

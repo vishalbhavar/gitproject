@@ -1,0 +1,21 @@
+create table empinfo(
+	id int primary key auto_increment,
+	name varchar(20),
+	email varchar(50),
+	contact varchar(10)
+);
+
+create table product(
+	id int primary key auto_increment,
+	name varchar(90),
+	price double,
+	quantity int
+);
+
+     insert into empinfo (name,email,contact) values 
+	 ('vishal bhavar','vishal@gmail.com','7522928336' ),
+     ('uddhav barge','uddhav@gmail.com','9933442233'),
+    ('ganesh khandagale','ganesh@gmail.com','5544335566'),
+     ( 'nitin jambhale','nitin@gmail.com','6655447788'),
+    ('vitthal bhavar','vitthal@gmail.com','9075378124')
+	);
