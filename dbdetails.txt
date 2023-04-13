@@ -1,0 +1,8 @@
+             DB DETAILS
+
+   DATA BASE : MYSQL
+   VERSION : 8
+   DATABASE NAME: VISHALDB
+   PASSWORD: Passs@123
+   url : musql://localhost/3306/vishaldb
+   USERNAME : VISHALBHAVAR
