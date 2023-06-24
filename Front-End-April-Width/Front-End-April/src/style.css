@@ -1,0 +1,42 @@
+/* div {
+  height: 25rem;
+  font-family: system-ui;
+  font-family: 'Bruno Ace', 'cursive';
+  fallback values if font does not support by browser
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} */
+/* div {
+  background-color: red;
+  width: 50%;
+  height: 6rem;
+  overflow: auto;
+} */
+
+/* width property will not work on inline element */
+/* span {
+  background-color: blue;
+  width: 100%;
+  margin-top: 15px;
+  padding: 15px;
+} */
+
+/* Display Properties */
+
+div {
+  background-color: red;
+  display: inline;
+}
+/* Combination of inline and block */
+/* div {
+  background-color: red;
+  display: inline-block;
+  margin-top: 56px;
+  width: 50%;
+} */
+span {
+  background-color: lightgreen;
+  display: block;
+}
+.hide-element {
+  display: none;
+}

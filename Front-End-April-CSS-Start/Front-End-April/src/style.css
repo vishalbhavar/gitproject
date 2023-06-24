@@ -1,0 +1,16 @@
+/* h1 {
+        color: blue;
+    } */
+.heading-message {
+  color: blue;
+}
+#paragraph-1 {
+  color: tomato;
+  background-color: lightseagreen;
+}
+#paragraph-1 span {
+  color: yellowgreen;
+}
+#paragraph-1 span span {
+  color: white;
+}
